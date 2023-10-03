@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/Sssilencee/ssstls/ssstransport"
+	"github.com/Sssilencee/ssstls-ordered-headers/ssstransport"
 )
 
 const (

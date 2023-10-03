@@ -2,6 +2,8 @@ github.com/Danny-Dasilva/fhttp v0.0.0-20220418170016-5ea1c560e6a8 h1:K/qCmMCMhnK
 github.com/Danny-Dasilva/fhttp v0.0.0-20220418170016-5ea1c560e6a8/go.mod h1:t534vrahRNn9ax1tRiYSUvwJSa9jWaYYgETlfodBPm4=
 github.com/Danny-Dasilva/utls v0.0.0-20220604023528-30cb107b834e h1:tqiguW0yAcIwQBQtD+d2rjBnboqB7CwG1OZ12F8avX8=
 github.com/Danny-Dasilva/utls v0.0.0-20220604023528-30cb107b834e/go.mod h1:ssfbVNUfWJVRfW41RTpedOUlGXSq3J6aLmirUVkDgJk=
+github.com/Sssilencee/http2 v0.0.0-20231003233935-736cf3782b1a h1:venKwyQpY4TRNcsONy/MMJUHGgGHfkDu2lbNrjdelA8=
+github.com/Sssilencee/http2 v0.0.0-20231003233935-736cf3782b1a/go.mod h1:xVSIqycM8BiAZ/Ruwv7gRfxk+ERD10zov3Bg/6j+oWc=
 github.com/dsnet/compress v0.0.1 h1:PlZu0n3Tuv04TzpfPbrnI0HW/YwodEXDS+oPKahKF0Q=
 github.com/dsnet/compress v0.0.1/go.mod h1:Aw8dCMJ7RioblQeTqt88akK31OvO8Dhf5JflhBbQEHo=
 github.com/dsnet/golib v0.0.0-20171103203638-1ea166775780/go.mod h1:Lj+Z9rebOhdfkVLjJ8T6VcRQv3SXugXy999NBtR9aFY=

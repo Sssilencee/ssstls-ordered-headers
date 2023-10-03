@@ -12,7 +12,7 @@ import (
 	"sync"
 
 	utls "github.com/Danny-Dasilva/utls"
-	"golang.org/x/net/http2"
+	"github.com/Sssilencee/http2"
 	"golang.org/x/net/proxy"
 )
 

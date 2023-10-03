@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"golang.org/x/net/http2"
+	"github.com/Sssilencee/http2"
 )
 
 type dialer struct {
