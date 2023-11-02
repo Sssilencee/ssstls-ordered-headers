@@ -166,7 +166,11 @@ func (t *Transport) httpsRoundTrip(req *http.Request) (*http.Response, error) {
 		return transport.RoundTrip(req)
 	}
 
-	conn, err := t.dialTLS("tcp", fmt.Sprintf("%s:%s", req.Host, port))
+	host := req.Host
+	if req.Host == "" {
+		host = req.URL.Host
+	}
+	conn, err := t.dialTLS("tcp", fmt.Sprintf("%s:%s", host, port))
 	if err != nil {
 		return nil, fmt.Errorf("dial TLS: %s", err)
 	}
